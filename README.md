@@ -1,10 +1,10 @@
 # Details: 
-name: k.rajesh
+name:Rajesh karri
 
 # study details:
 sri vasavi engineering college
 
-# course: electrical communication and technology
+# course: Electronics and Communication Technology
 
 # Training/Certification
 TRAINING NAME: SOURCE CODE MANAGEMENT USING GIT & GITHUB
